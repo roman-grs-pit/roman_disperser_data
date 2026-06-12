@@ -1,0 +1,7 @@
+{
+  "optical_model": "optical-model-v0.8",
+  "sensitivities": "sensitivities-v1",
+  "synphot": "synphot-v1",
+  "psf": "psf-v1",
+  "catalog": "catalog-v2"
+}
