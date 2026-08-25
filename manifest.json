@@ -6,5 +6,6 @@
   "catalog": "catalog-v2",
   "optical_model_prism": "optical-model-prism-v0.8",
   "sensitivities_prism": "sensitivities-prism-v1",
-  "psf_prism": "psf-prism-v1"
+  "psf_prism": "psf-prism-v1",
+  "golden_frames": "golden-frames-v2"
 }
